@@ -1,0 +1,90 @@
+{
+    "git.ignoreMissingGitWarning": true,
+    "python.pythonPath": "C:\\Users\\7258163\\AppData\\Local\\Continuum\\anaconda3",
+    "workbench.colorTheme": "One Dark Darker",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "editor.fontFamily": "Inconsolata",
+    "editor.renderWhitespace": "none",
+    "editor.minimap.enabled": false,
+    "extensions.ignoreRecommendations": false,
+    "editor.rulers": [80,120],
+
+    "files.associations": {
+        "*.ino": "cpp",
+        "*.h": "cpp",
+        "*.js": "javascript",
+        "*.c": "c"
+    },
+    "[cpp]": {
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true,
+        "editor.detectIndentation": false,
+    },
+    "[html]": {
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true,
+        "editor.detectIndentation": false,
+        "editor.defaultFormatter": "vscode.html-language-features",
+    },
+    "debug.console.fontFamily": "Default",
+    "[python]": {
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true,
+        "editor.detectIndentation": false,
+    },
+    "editor.tabCompletion": "on",
+    "editor.acceptSuggestionOnEnter": "off",
+    "terminal.integrated.fontFamily": "Inconsolata",
+    "window.zoomLevel": 0,
+    "[javascript]": {
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true,
+        "editor.detectIndentation": false,
+    },
+    "[css]": {
+        "editor.tabSize": 2,
+    },
+    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingQuotes": "never",
+    "editor.autoSurround": "never",
+    "javascript.autoClosingTags": false,
+    "html.autoClosingTags": false,
+    "vim.highlightedyank.duration": 100,
+    "vim.useSystemClipboard": true,
+    "markdown.preview.lineHeight": 1.5,
+    "editor.fontSize": 14,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "latex-workshop.latex.autoClean.run": "onBuilt",
+    "latex-workshop.view.pdf.viewer": "tab",
+    "latex-workshop.latex.recipes": [
+        {
+            "name": "pdflatex ➞ bibtex ➞ pdflatex × 2",
+            "tools": [
+                "pdflatex",
+            ]
+        }
+    ],
+    "workbench.iconTheme": "Monokai Pro (Filter Spectrum) Icons",
+    "workbench.activityBar.visible": false,
+    "workbench.statusBar.visible": true,
+    "[c]": {
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true,
+        "editor.defaultFormatter": "ms-vscode.cpptools",
+    },
+    "[plaintext]": {
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true,
+    },
+    "vim.foldfix": true,
+    "breadcrumbs.enabled": false,
+    "editor.renderControlCharacters": false,
+    "editor.folding": false,
+    "python.analysis.openFilesOnly": false,
+    "zenMode.hideLineNumbers": false,
+    "window.menuBarVisibility": "default",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.smoothScrolling": true,
+}
